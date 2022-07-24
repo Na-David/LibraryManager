@@ -4,12 +4,12 @@
   "libraries": [
     {
       "library": "jquery@3.6.0",
-      "destination": "wwwroot/lib",
+      "destination": "wwwroot/lib/Javascript",
       "files": [ "jquery.js", "jquery.min.js" ]
     },
     {
       "library": "jquery-validate@1.19.5",
-      "destination": "wwwroot/lib/",
+      "destination": "wwwroot/lib/Javascript",
       "files": [ "additional-methods.js", "additional-methods.min.js", "jquery.validate.js", "jquery.validate.min.js" ]
     },
     {
